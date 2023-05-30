@@ -41,11 +41,3 @@ runs:
                 context: .
                 push: true
                 tage: ${{inputs.registry_username}}/${{inputs.image_name}}:${{env.final_tag}}
-                
-                
-                
-                
-                
-                
-                
-                
